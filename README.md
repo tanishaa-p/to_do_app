@@ -1,16 +1,15 @@
 # to_do_app
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/tanishaa-p/to_do_app/assets/143655963/69f5e230-3bdb-4bda-86b7-9d50893451e3
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+To-do-list Flutter app with full functionality, using HIVE API to restore the contents of the app even after it is terminated.
+-Splashcreen when the app is initiated
+-When you open the app for the first time, displaying some default tasks to do.
+-Check listing a task when it is done.
+-Clicking on the add icon which shows a dialog box to add a new task, to add to list, "Save" option is used
+-When “Cancel” is clicked on the Dialog Box, no chnage is there.
+-Sliding a task to delete.
+-When you close the app and open it again, the same saved tasks are only shown (using HIVE).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
