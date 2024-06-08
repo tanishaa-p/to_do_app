@@ -5,6 +5,7 @@ https://github.com/tanishaa-p/to_do_app/assets/143655963/69f5e230-3bdb-4bda-86b7
 
 
 To-do-list Flutter app with full functionality, using HIVE API to restore the contents of the app even after it is terminated.
+
 -Splashcreen when the app is initiated
 
 -When you open the app for the first time, displaying some default tasks to do.
